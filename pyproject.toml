@@ -1,0 +1,14 @@
+[project]
+name = "llm-series"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=4.1.1",
+    "ipykernel>=6.30.1",
+    "openai>=1.109.1",
+    "pip>=25.2",
+    "python-dotenv>=1.1.1",
+    "tiktoken>=0.11.0",
+]
